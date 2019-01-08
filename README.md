@@ -5,9 +5,7 @@ Send a message to your friends on a regular WeChat every day, "Good night," stor
 最好运行在服务器上，这样后台挂起来更方便。
 
 
-使用前确认安装以下库:
-pip install wxpy
-pip install requests
+
 
 
 
